@@ -12,8 +12,8 @@
   <url>http://maven.apache.org</url>
 
   <scm>
-    <connection>scm:git:https://github.com/YounessT28/TPMaven</connection>
-    <developerConnection>scm:git:https://github.com/YounessT28/TPMaven</developerConnection>
+    <connection>scm:git:https://github.com/YounessT28/mvnscm</connection>
+    <developerConnection>scm:git:https://github.com/YounessT28/mvnscm</developerConnection>
   </scm>
 
   <properties>
